@@ -24,6 +24,8 @@ gem 'webpacker', '~> 4.x'
 gem 'font-awesome-rails', '~>4.x'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
+gem 'sidekiq'
+gem 'sidekiq-cron'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
